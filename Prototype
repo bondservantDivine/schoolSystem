@@ -105,7 +105,7 @@ class School:
 # ===================== Simulation Setup =====================
 
 def setup_simulation():
-    school = School("Green Valley High School")
+    school = School("New Horizon Private Academy")
 
     # Register students
     students = [
